@@ -4,17 +4,16 @@ OpenAI + Google Doc + Google Calendar Integration Final CSC215-AI Project
 
 Different Programs 
 
-Basic
+1) Basic
 
 
- a) Querying Own Data(text file) with no OpenAI Integration
+  a) Querying Own Data(text file) with no OpenAI Integration
 
-b)   Querying Own Data(text file) with OpenAI Integration
+  b)   Querying Own Data(text file) with OpenAI Integration
 
-c)   Querying Own Data(folder) with no OpenAI Integration
+  c)   Querying Own Data(folder) with no OpenAI Integration
 
-d)   Querying Own Data(folder) with OpenAI Integration
-
+  d)   Querying Own Data(folder) with OpenAI Integration
 
 2) Retrieving the doc content from the Google docs and running the above four different basic operations on it.
 
